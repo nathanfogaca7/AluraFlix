@@ -1,4 +1,4 @@
-body {
+ body {
 color:white;
 background:black;
 margin: 0px;
@@ -6,15 +6,14 @@ font-family: "Chakra Petch", sans-serif;
 }
 
 header {
-
-border-bottom: solid 2px rgb(42, 228, 98);
+border-bottom: solid 2px rgb(125, 37, 117);
 padding: 20px;
 font-size: 32px;
-color: rgb(218, 167, 248);
+color: rgb(203, 94, 203);
 }
 
 section {
-background:rgb(101, 4, 139);
+background:rgb(153, 82, 163);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
@@ -34,10 +33,10 @@ font-size: 20px;
 }
 
 img {
-    height: 200;
+height: 200;
 }
 
 .categoria-videos {
-    display: flex;
-    overflow-x: auto;
+display: flex;
+overflow-x: auto;
 }
