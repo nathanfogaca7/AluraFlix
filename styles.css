@@ -11,8 +11,7 @@ padding: 20px;
 font-size: 32px;
 color: rgb(203, 94, 203);
 }
-
-section {
+.chamada {
 background:rgb(153, 82, 163);
 padding-bottom: 80px;
 padding-top: 80px;
